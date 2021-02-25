@@ -1,6 +1,6 @@
 # Hoop Chat
 
-Multiuser, server-client based a very Qt chat application. Special thanks to [@abdllhcay](https://github.com/altunmustafa) and [@eemreozel](https://github.com/eemreozel)
+Multiuser, server-client based a very Qt chat application. Special thanks to [@abdllhcay](https://github.com/abdllhcay) and [@eemreozel](https://github.com/eemreozel)
 
 ## Screenshots
 
